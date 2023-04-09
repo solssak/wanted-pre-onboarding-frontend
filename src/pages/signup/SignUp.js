@@ -26,6 +26,7 @@ const SignUp = () => {
     if (isToken) {
       navigate("/todo", { replace: true });
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const signUpHandler = (e) => {
