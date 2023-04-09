@@ -30,6 +30,7 @@ const Todo = () => {
     if (!isToken) {
       navigate("/signup", { replace: true });
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
