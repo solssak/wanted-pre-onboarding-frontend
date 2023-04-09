@@ -6,4 +6,4 @@
 
 ## 데모 링크 (Netlify)
 
-https://app.netlify.com/sites/glittering-jelly-5d7549/settings/domain
+https://glittering-jelly-5d7549.netlify.app/
